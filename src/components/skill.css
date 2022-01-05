@@ -1,0 +1,16 @@
+.skill-name{
+    font-size: 30px;
+    font-weight: 600;
+}
+.icons{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.icon{
+    font-size: 120px;
+    margin-right: 20px;
+}
+.skill{
+    margin:0px 20px;
+    margin-top:25px;
+}

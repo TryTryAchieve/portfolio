@@ -1,0 +1,36 @@
+.contact1{
+    display: flex;
+    margin-bottom: 30px;
+}
+.emailat{
+    display: flex;
+    flex:1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.location{
+    display: flex;
+    flex:1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icon1{
+    font-size: 60px;
+}
+.contact2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact2 a{
+    text-decoration: none;
+}
+.contact-icon{
+    font-size: 60px;
+    margin: 10px;
+}
+.contact-icon:hover{
+    font-size: 62px;
+}

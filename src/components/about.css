@@ -1,0 +1,37 @@
+.pic{
+    height: 450px;
+}
+.upper{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.info{
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 35%;
+}
+.sush{
+    font-weight: 700;
+    color: blue;
+    font-size: 40px;
+    display: inline;
+}
+.color{
+    color: rgb(60, 243, 43);
+    font-weight: 600;
+}
+.lower{
+    width: 70%;
+    margin:40px auto;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.diff{
+    color: tomato;
+}

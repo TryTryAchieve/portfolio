@@ -1,0 +1,10 @@
+.body{
+    padding: 15px;
+    padding-bottom: 35px;
+}
+.section-title{
+    font-size: 35px;
+    font-weight: 700;
+    color: rgb(4, 11, 112);
+    margin-top: 50px;
+}
