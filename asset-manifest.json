@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.33cbf302.css",
+    "main.js": "/portfolio/static/js/main.66166780.js",
+    "static/media/consolemax.png": "/portfolio/static/media/consolemax.2690a2185ab449593d52.png",
+    "static/media/nsutella.png": "/portfolio/static/media/nsutella.0077978dcbc93f00701a.png",
+    "static/media/bigcart.png": "/portfolio/static/media/bigcart.0223c63059fd86129d37.png",
+    "static/media/Typing-bro.png": "/portfolio/static/media/Typing-bro.d1777eefc184db809bd7.png",
+    "static/media/toppic.png": "/portfolio/static/media/toppic.966d92695078d3862be6.png",
+    "index.html": "/portfolio/index.html",
+    "main.33cbf302.css.map": "/portfolio/static/css/main.33cbf302.css.map",
+    "main.66166780.js.map": "/portfolio/static/js/main.66166780.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33cbf302.css",
+    "static/js/main.66166780.js"
+  ]
+}
